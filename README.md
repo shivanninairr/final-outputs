@@ -8,5 +8,6 @@
 7. Choropleth Maps
 8. Kaleido Package
 9. waterfall_chart
+10. pywaffle
 
 **Note : - Choropleth maps will only run if the system has Kaleido package installed (as we have used the Kaleido package). Install it using 'pip intall kaleido'. Maps have been attached as an html file.**
